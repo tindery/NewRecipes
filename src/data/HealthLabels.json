@@ -1,0 +1,177 @@
+[
+  {
+    "label": "Alcohol-Cocktail",
+    "apiParameter": "alcohol-cocktail",
+    "description": "Describes an alcoholic cocktail"
+  },
+  {
+    "label": "Alcohol-Free",
+    "apiParameter": "alcohol-free",
+    "description": "No alcohol used or contained"
+  },
+  {
+    "label": "Celery-Free",
+    "apiParameter": "celery-free",
+    "description": "Does not contain celery or derivatives"
+  },
+  {
+    "label": "Crustcean-Free",
+    "apiParameter": "crustacean-free",
+    "description": "Does not contain crustaceans (shrimp, lobster etc.) or derivatives"
+  },
+  {
+    "label": "Dairy-Free",
+    "apiParameter": "dairy-free",
+    "description": "No dairy; no lactose"
+  },
+  {
+    "label": "DASH",
+    "apiParameter": "DASH",
+    "description": "Dietary Approaches to Stop Hypertension diet"
+  },
+  {
+    "label": "Egg-Free",
+    "apiParameter": "egg-free",
+    "description": "No eggs or products containing eggs"
+  },
+  {
+    "label": "Fish-Free",
+    "apiParameter": "fish-free",
+    "description": "No fish or fish derivatives"
+  },
+  {
+    "label": "FODMAP-Free",
+    "apiParameter": "fodmap-free",
+    "description": "Does not contain FODMAP foods"
+  },
+  {
+    "label": "Gluten-Free",
+    "apiParameter": "gluten-free",
+    "description": "No ingredients containing gluten"
+  },
+  {
+    "label": "Immuno-Supportive",
+    "apiParameter": "immuno-supportive",
+    "description": "Recipes which fit a science-based approach to eating to strengthen the immune system"
+  },
+  {
+    "label": "Keto-Friendly",
+    "apiParameter": "keto-friendly",
+    "description": "Maximum 7 grams of net carbs per serving"
+  },
+  {
+    "label": "Kidney-Friendly",
+    "apiParameter": "kidney-friendly",
+    "description": "Per serving – phosphorus less than 250 mg AND potassium less than 500 mg AND sodium less than 500 mg"
+  },
+  {
+    "label": "Kosher",
+    "apiParameter": "kosher",
+    "description": "Contains only ingredients allowed by the kosher diet. However it does not guarantee kosher preparation of the ingredients themselves"
+  },
+  {
+    "label": "Low Potassium",
+    "apiParameter": "low-potassium",
+    "description": "Less than 150mg per serving"
+  },
+  {
+    "label": "Low Sugar",
+    "apiParameter": "low-sugar",
+    "description": "No simple sugars – glucose, dextrose, galactose, fructose, sucrose, lactose, maltose"
+  },
+  {
+    "label": "Lupine-Free",
+    "apiParameter": "lupine-free",
+    "description": "Does not contain lupine or derivatives"
+  },
+  {
+    "label": "Mediterranean",
+    "apiParameter": "Mediterranean",
+    "description": "Mediterranean diet"
+  },
+  {
+    "label": "Mollusk-Free",
+    "apiParameter": "mollusk-free",
+    "description": "No mollusks"
+  },
+  {
+    "label": "Mustard-Free",
+    "apiParameter": "mustard-free",
+    "description": "Does not contain mustard or derivatives"
+  },
+  {
+    "label": "No oil added",
+    "apiParameter": "No-oil-added",
+    "description": "No oil added except to what is contained in the basic ingredients"
+  },
+  {
+    "label": "Paleo",
+    "apiParameter": "paleo",
+    "description": "Excludes what are perceived to be agricultural products; grains, legumes, dairy products, potatoes, refined salt, refined sugar, and processed oils"
+  },
+  {
+    "label": "Peanut-Free",
+    "apiParameter": "peanut-free",
+    "description": "No peanuts or products containing peanuts"
+  },
+  {
+    "label": "Pescatarian",
+    "apiParameter": "pecatarian",
+    "description": "Does not contain meat or meat based products, can contain dairy and fish"
+  },
+  {
+    "label": "Pork-Free",
+    "apiParameter": "pork-free",
+    "description": "Does not contain pork or derivatives"
+  },
+  {
+    "label": "Red-Meat-Free",
+    "apiParameter": "red-meat-free",
+    "description": "Does not contain beef, lamb, pork, duck, goose, game, horse, and other types of red meat or products containing red meat."
+  },
+  {
+    "label": "Sesame-Free",
+    "apiParameter": "sesame-free",
+    "description": "Does not contain sesame seed or derivatives"
+  },
+  {
+    "label": "Shellfish-Free",
+    "apiParameter": "shellfish-free",
+    "description": "No shellfish or shellfish derivatives"
+  },
+  {
+    "label": "Soy-Free",
+    "apiParameter": "soy-free",
+    "description": "No soy or products containing soy"
+  },
+  {
+    "label": "Sugar-Conscious",
+    "apiParameter": "sugar-conscious",
+    "description": "Less than 4g of sugar per serving"
+  },
+  {
+    "label": "Sulfite-Free",
+    "apiParameter": "sulfite-free",
+    "description": "No Sulfites"
+  },
+  {
+    "label": "Tree-Nut-Free",
+    "apiParameter": "tree-nut-free",
+    "description": "No tree nuts or products containing tree nuts"
+  },
+  {
+    "label": "Vegan",
+    "apiParameter": "vegan",
+    "description": "No meat, poultry, fish, dairy, eggs or honey"
+  },
+  {
+    "label": "Vegetarian",
+    "apiParameter": "vegetarian",
+    "description": "No meat, poultry, or fish"
+  },
+  {
+    "label": "Wheat-Free",
+    "apiParameter": "wheat-free",
+    "description": "No wheat, can have gluten though"
+  }
+]

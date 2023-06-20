@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "lib": ["ES2021"]
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}

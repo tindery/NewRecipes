@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Balanced",
+    "apiParameter": "balanced",
+    "description": "Protein/Fat/Carb values in 15/35/50 ratio"
+  },
+  {
+    "label": "High-Fiber",
+    "apiParameter": "high-fiber",
+    "description": "More than 5g fiber per serving"
+  },
+  {
+    "label": "High-Protein",
+    "apiParameter": "high-protein",
+    "description": "More than 50% of total calories from proteins"
+  },
+  {
+    "label": "Low-Carb",
+    "apiParameter": "low-carb",
+    "description": "Less than 20% of total calories from carbs"
+  },
+  {
+    "label": "Low-Fat",
+    "apiParameter": "low-fat",
+    "description": "Less than 15% of total calories from fat"
+  },
+  {
+    "label": "Low-Sodium",
+    "apiParameter": "low-sodium",
+    "description": "Less than 140mg Na per serving"
+  }
+]
